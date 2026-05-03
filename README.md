@@ -50,7 +50,7 @@ personal-portfolio/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone https://github.com/Shraddha-1803/Portfolio
